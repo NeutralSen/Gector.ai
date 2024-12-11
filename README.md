@@ -2,6 +2,7 @@
 Using OpenAI Library 
 
 npm package :
-```openai
+```
+openai
 openai-node
 node-openai
