@@ -1,6 +1,7 @@
 # Gector.ai
 Using OpenAI Library 
 
+custom endpoint
 npm package :
 ```
 openai
