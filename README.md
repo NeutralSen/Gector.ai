@@ -1,2 +1,2 @@
 # Gector.ai
-Using OpenAI Library
+Using OpenAI Library npm package
